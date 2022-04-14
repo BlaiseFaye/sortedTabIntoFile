@@ -1,0 +1,7 @@
+C:\Users\turf3\RiderProjects\courscsharp\sortedTabIntoFile\bin\Debug\sortedTabIntoFile.exe
+C:\Users\turf3\RiderProjects\courscsharp\sortedTabIntoFile\bin\Debug\sortedTabIntoFile.pdb
+C:\Users\turf3\RiderProjects\courscsharp\sortedTabIntoFile\obj\Debug\sortedTabIntoFile.csproj.AssemblyReference.cache
+C:\Users\turf3\RiderProjects\courscsharp\sortedTabIntoFile\obj\Debug\sortedTabIntoFile.csproj.SuggestedBindingRedirects.cache
+C:\Users\turf3\RiderProjects\courscsharp\sortedTabIntoFile\obj\Debug\sortedTabIntoFile.csproj.CoreCompileInputs.cache
+C:\Users\turf3\RiderProjects\courscsharp\sortedTabIntoFile\obj\Debug\sortedTabIntoFile.exe
+C:\Users\turf3\RiderProjects\courscsharp\sortedTabIntoFile\obj\Debug\sortedTabIntoFile.pdb
